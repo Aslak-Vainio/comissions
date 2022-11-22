@@ -1,12 +1,9 @@
 Shoppinglist
 Sausage
-Rye Bread
 Rice
-ketchup
+Ketchup
 Butter
-Milk
-Muesli
 Tomato Sauce
 Tuna
 Pineapple
-
+Microsoft word license for ubuntu users
