@@ -1,0 +1,12 @@
+Shoppinglist
+Sausage
+Rye Bread
+Rice
+ketchup
+Butter
+Milk
+Muesli
+Tomato Sauce
+Tuna
+Pineapple
+
