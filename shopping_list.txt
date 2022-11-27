@@ -1,7 +1,8 @@
 Shoppinglist
-Wiener
-Rice
-Ketchup
+Sausage
+Pasta
+Spinach
+Mustard
 Butter
 Tomato Sauce
 Tuna
@@ -10,3 +11,6 @@ Pineapple
 Grated Cheese
 Pizza
 Green pepper filled olives
+
+
+
