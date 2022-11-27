@@ -1,5 +1,5 @@
 Shoppinglist
-Sausage
+Wiener
 Rice
 Ketchup
 Butter
