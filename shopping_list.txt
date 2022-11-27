@@ -10,3 +10,7 @@ Pineapple
 Grated Cheese
 Pizza
 Green pepper filled olives
+
+
+
+Shopping list should be empty, everything has been bought. 
